@@ -5,11 +5,11 @@ First run the HEMS-upload.ipynb file to obtain all the required files for HEMS o
 
 The process of HEMS is as follows:
 
-![alt text](HEMS-flow.png "HEMS operation")
+![alt text](HEMS.drawio.png "HEMS operation")
 
 
 The process of ABM is as follows:
-![alt text](ABM-flowpng "ABM workflow")
+![alt text](ABS.drawio.png "ABM workflow")
 
 
 Detailed explanation of this work is provided in https://www.sciencedirect.com/science/article/pii/S0306261924013710#b56
